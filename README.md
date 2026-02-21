@@ -2,27 +2,27 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+#Emergency-Legal-Info-Assistance 🎯
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name: Arctick
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: Anjana Raj M- College of Engineering Munnar
+- Member 2: Pravija Vijayakumar - College of Engineering Munnar
 
 ### Hosted Project Link
-[mention your project hosted link here]
+https://anjanasraj03-ux.github.io/Emergency-Legal-Info-Assistance/
 
 ### Project Description
-[2-3 lines about what your project does]
+Emergency Legal Info Assistance
 
 ### The Problem statement
-[What problem are you solving?]
+For people who doesn't know about their rights according to the law according to the costitution
 
 ### The Solution
-[How are you solving it?]
+Assisting people by providing their rights according to the law according to a countries constitution
 
 ---
 
