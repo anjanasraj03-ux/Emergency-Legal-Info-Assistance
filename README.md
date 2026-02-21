@@ -87,7 +87,8 @@ List the key features of your project:
 
 *Add caption explaining what this shows*
 
-<img width="890" height="374" alt="Screenshot 2026-02-20 at 10 48 50 PM" src="https://github.com/user-attachments/assets/572db529-57aa-46bd-954a-51566a01396b" />
+<img width="1440" height="932" alt="Screenshot 2026-02-21 at 7 47 39 AM" src="https://github.com/user-attachments/assets/57a5ad51-6396-481e-b437-bc4ba8459589" />
+
 
 *Add caption explaining what this shows*
 
